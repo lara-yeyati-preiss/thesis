@@ -40,6 +40,9 @@ Along with these three discursive analyses, there is a background layer tracking
 Additionally, as a supplementary component, the project presents a timeline of cultural artifacts sent into space, documenting not only how we speak about space among ourselves but how we present ourselves outward.
 
 
+## Initial sketches
+
+[Sketches](https://github.com/lara-yeyati-preiss/thesis/blob/main/sketches_space.pdf)
 
 ## Bibliography
 
